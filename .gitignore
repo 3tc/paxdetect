@@ -1,0 +1,5 @@
+*.sw?
+output/
+nohup.out
+.env
+
